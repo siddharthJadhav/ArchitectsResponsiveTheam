@@ -31,3 +31,8 @@ body {
 .margin-top {
   margin-top: 20px
 }
+
+.bg1 {
+  background: #2d2d30;
+  color: #bdbdbd;
+}
