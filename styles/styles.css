@@ -1,0 +1,25 @@
+body {
+  color: #000000;
+}
+
+.navbar {
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  letter-spacing: 4px;
+}
+
+.black-color {
+  color: #000000;
+}
+
+.home-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.no-paading {
+  padding: 0px !important;
+}
+
+.no-margin {
+  padding: 0px !important;
+}
