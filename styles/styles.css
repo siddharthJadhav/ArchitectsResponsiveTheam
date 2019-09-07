@@ -12,7 +12,7 @@ body {
 }
 
 .home-image {
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
@@ -21,5 +21,23 @@ body {
 }
 
 .no-margin {
-  padding: 0px !important;
+  margin: 0px !important;
+}
+
+.image-containar {
+  position: relative;
+  color: #ffffff;
+  font-size: 35px;
+}
+
+.image-text-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.title-strong {
+  padding: 7px 15px;;
+  background-color: #000000ba;
 }
