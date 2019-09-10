@@ -1,3 +1,11 @@
+/* Media query start */
+@media (min-width: 1250px) {
+  .container {
+    width: 80%;
+  }
+}
+/* Media query end */
+
 body {
   color: #000000;
 }
@@ -67,9 +75,11 @@ body {
   padding: 13px;
   font-size: 16px;
 }
-  
-@media (min-width: 1250px) {
-  .container {
-    width: 80%;
-  }
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+.width-100 {
+  width: 100%;
 }
