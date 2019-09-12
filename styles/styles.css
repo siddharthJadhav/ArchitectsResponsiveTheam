@@ -1,7 +1,7 @@
 /* Media query start */
 @media (min-width: 1250px) {
   .container {
-    width: 80%;
+    width: 90%;
   }
 }
 /* Media query end */
@@ -25,7 +25,7 @@ body {
   height: auto;
 }
 
-.no-paading {
+.no-padding {
   padding: 0px !important;
 }
 
