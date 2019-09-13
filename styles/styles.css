@@ -87,3 +87,13 @@ body {
 .font-size-20 {
   font-size: 20px;
 }
+
+.job-title {
+  color: #564a4abd;
+}
+
+.contact-btn {
+  width: 100%;
+  padding: 5px;
+  background: #b8bfb8;
+}
